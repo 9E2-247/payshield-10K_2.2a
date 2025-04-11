@@ -1,0 +1,8 @@
+Base Release                         : 2.2a
+Revision                             : 2200-0000
+Firmware Version                     : 1.16.1
+Deployment Version                   : 1.16.1
+Bootstrap Version                    : 1.1.40
+Sensor Processor Application Version : 1.1.52
+Sensor Processor Boot Version        : 1.0.0
+CPLD Version                         : 1.2.3
